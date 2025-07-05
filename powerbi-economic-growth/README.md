@@ -56,7 +56,7 @@ This interactive Power BI dashboard visualizes **global economic growth rates by
 ## 📌 Author
 
 **Nghia Ha (NghiaHa1995)**  
-GitHub: [@Nghiaha1995](https://github.com/Nghiaha1995)
+GitHub: [@Nghiaha](https://github.com/Nghiaha1995)
 
 ---
 
