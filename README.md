@@ -27,7 +27,7 @@ Each folder represents a separate project with real datasets, interactive dashbo
 
 ## 📌 About
 
-**Author:** Nghia Ha ([@Nghiaha1995](https://github.com/Nghiaha1995))  
+**Author:** Nghia Ha ([@Nghiaha](https://github.com/Nghiaha1995))  
 This repo is part of my **data portfolio**, showcasing my ability to transform raw data into meaningful and interactive dashboards.
 
 Feel free to explore each project folder for `.pbix` files, datasets, previews, and documentation.
